@@ -1,0 +1,23 @@
+2025-06-08 00:07:19,435 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x133,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-06-08 00:13:50,774 [INFO] WebApp:194 - Connection lost
+2025-06-08 12:13:58,197 [INFO] WebApp:191 - Connection restablished
+2025-06-08 12:14:02,269 [INFO] WebApp:194 - Connection lost
+2025-06-08 12:14:02,475 [INFO] WebApp:191 - Connection restablished
+2025-06-08 12:14:04,003 [INFO] WebApp:194 - Connection lost
+2025-06-08 12:14:04,176 [INFO] WebApp:191 - Connection restablished
+2025-06-08 12:14:22,429 [INFO] WebApp:194 - Connection lost
+2025-06-08 12:14:22,573 [INFO] WebApp:191 - Connection restablished
+2025-06-08 12:14:35,419 [INFO] WebApp:194 - Connection lost
+2025-06-08 12:14:35,825 [INFO] WebApp:191 - Connection restablished
+2025-06-08 12:15:51,933 [INFO] WebApp:194 - Connection lost
+2025-06-08 12:15:52,120 [INFO] WebApp:191 - Connection restablished
+2025-06-08 12:36:14,083 [INFO] WebApp:194 - Connection lost
+2025-06-08 12:36:14,273 [INFO] WebApp:191 - Connection restablished
+2025-06-08 12:45:56,910 [INFO] WebApp:194 - Connection lost
+2025-06-08 12:45:57,078 [INFO] WebApp:191 - Connection restablished
+2025-06-08 12:54:15,065 [INFO] WebApp:194 - Connection lost
+2025-06-08 12:54:15,230 [INFO] WebApp:191 - Connection restablished
+2025-06-08 13:16:26,936 [INFO] WebApp:194 - Connection lost
+2025-06-08 13:16:27,129 [INFO] WebApp:191 - Connection restablished
+2025-06-08 17:20:34,530 [INFO] WebApp:194 - Connection lost
+2025-06-08 17:20:35,405 [INFO] WebApp:191 - Connection restablished

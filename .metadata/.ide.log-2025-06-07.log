@@ -1,0 +1,47 @@
+2025-06-09 08:33:54,514 [INFO] WebApp:194 - Connection lost
+2025-06-09 09:49:35,993 [INFO] WebApp:191 - Connection restablished
+2025-06-09 09:49:42,770 [INFO] WebApp:194 - Connection lost
+2025-06-09 09:49:44,082 [INFO] WebApp:191 - Connection restablished
+2025-06-09 09:51:22,541 [INFO] WebApp:194 - Connection lost
+2025-06-09 09:51:23,141 [INFO] WebApp:191 - Connection restablished
+2025-06-09 09:53:39,727 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 416006704 Bytes (1073741824)
+2025-06-09 09:53:43,223 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 431267464 Bytes (1073741824)
+2025-06-09 09:53:43,713 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 450141872 Bytes (1073741824)
+2025-06-09 09:53:44,137 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-06-09 09:53:44,137 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-06-09 09:53:44,138 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-06-09 09:53:44,138 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-06-09 09:53:44,138 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-06-09 09:53:44,141 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-06-09 09:53:44,145 [INFO] CodeGenerator:882 - code generatio: config db path: C:\ST\STM32CubeIDE_1.18.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.1.202504091515\\db\
+2025-06-09 09:53:44,444 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\MXTmpFiles\license.tmp_save
+2025-06-09 09:53:44,993 [INFO] CodeEngine:287 - Generated code: C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\MXTmpFiles\license.tmp
+2025-06-09 09:53:45,126 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\MXTmpFiles\gpio.tmp_save
+2025-06-09 09:53:46,013 [INFO] CodeEngine:287 - Generated code: C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\MXTmpFiles\gpio.tmp
+2025-06-09 09:53:46,437 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\Core\Src\stm32f1xx_it.c_save
+2025-06-09 09:53:47,707 [INFO] CodeEngine:287 - Generated code: C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\Core\Src\stm32f1xx_it.c
+2025-06-09 09:53:47,761 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\Core\Inc\stm32f1xx_it.h_save
+2025-06-09 09:53:47,980 [INFO] CodeEngine:287 - Generated code: C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\Core\Inc\stm32f1xx_it.h
+2025-06-09 09:53:48,051 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\Core\Src\stm32f1xx_hal_msp.c_save
+2025-06-09 09:53:49,189 [INFO] CodeEngine:287 - Generated code: C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\Core\Src\stm32f1xx_hal_msp.c
+2025-06-09 09:53:49,219 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\MXTmpFiles\system.tmp_save
+2025-06-09 09:53:49,385 [INFO] CodeEngine:287 - Generated code: C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\MXTmpFiles\system.tmp
+2025-06-09 09:53:49,453 [INFO] CodeEngine:319 - oldGeneratedFile, C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-06-09 09:53:49,707 [INFO] CodeEngine:343 - Generated code: C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\Core\Inc\stm32f1xx_hal_conf.h
+2025-06-09 09:53:49,799 [INFO] ApiDbMcu:508 - Load IP Config File for USART1
+2025-06-09 09:53:49,860 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\Core\Inc\main.h_save
+2025-06-09 09:53:50,247 [INFO] CodeEngine:287 - Generated code: C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\Core\Inc\main.h
+2025-06-09 09:53:50,304 [INFO] CodeEngine:263 - oldGeneratedFile, C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\Core\Src\main.c_save
+2025-06-09 09:53:50,770 [INFO] CodeEngine:287 - Generated code: C:\Users\prana\STM32CubeIDE\workspace_1.18.1\nucleo-f103RB-uart\Core\Src\main.c
+2025-06-09 09:53:51,918 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 566mS.
+2025-06-09 09:53:51,938 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0.1-B1
+2025-06-09 09:53:52,035 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-06-09 09:53:52,035 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-06-09 09:53:52,037 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-06-09 09:53:52,038 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-06-09 09:53:52,039 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-06-09 09:53:52,042 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-06-09 09:53:52,526 [INFO] ConfigFileManager:1590 - The Die is : DIE410
+2025-06-09 09:54:00,471 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 8532mS.
+2025-06-09 09:54:00,481 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 7mS.
+2025-06-09 09:54:00,512 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
